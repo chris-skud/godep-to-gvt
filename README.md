@@ -3,7 +3,7 @@ Dumb utility to migrate Godeps deps into ./vendor using gvt.
 
 #### Use
 
-	go get -u https://github.com/chris-skud/godep-to-gvt
+	go get -u github.com/chris-skud/godep-to-gvt
 	
 At the root of your project:
 
